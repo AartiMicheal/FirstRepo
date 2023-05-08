@@ -1,3 +1,4 @@
 Hii this is first notepad text which open with help of Git.
 
 Second time writing this.
+Hii today is something different.
